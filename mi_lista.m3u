@@ -34,10 +34,10 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 # Radios
 
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Radio_La_Red#/media/Archivo:Radio_La_Red_AM_910.png" group-title="Radios",La Red
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/radios/lared.png" group-title="Radios",La Red
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC_SC
 
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/77/93/7793b356-44fe-4e77-a360-8b95dc9fc943.jpg" group-title="Radios",Rivadavia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/radios/rivadavia.png" group-title="Radios",Rivadavia
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC
 
 # Películas
