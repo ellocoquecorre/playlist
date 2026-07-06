@@ -1,11 +1,11 @@
-﻿#EXTM3U
+﻿#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz"
 
 # Noticias
 
 #EXTINF:-1 tvg-name="LN+" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/ln.png",LN+
-https://www.youtube.com/c/LaNacionMas/live
+http://playcom.trapemn.tv:1935/transcoderip/lanacionplus.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TN" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/tn.png",TN
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/tn.png",TN
 http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="A24" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/a24.png",A24
@@ -33,7 +33,7 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CBS" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/cbs.png",CBS
-https://iptv-org.github.io/channels/us/CBSenespanol#SD
+http://stream.cammonitorplus.net/1783/index.m3u8
 
 #EXTINF:-1 tvg-name="Fox News" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/foxnews.png",Fox News
 http://41.205.77.102/FOX-NEWS/index.m3u8
@@ -49,7 +49,4 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AA
 #EXTINF:-1 tvg-name="Rivadavia" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/radios/rivadavia.png" group-title="Radios",Rivadavia
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC
 
-# Deportes
-
-#EXTINF:-1 tvg-name="Fox Sports" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/LOGO.png",Fox Sports
-https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
+# Películas
