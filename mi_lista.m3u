@@ -1,0 +1,13 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="Noticias",TN
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" group-title="Noticias",Canal26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Radio_La_Red#/media/Archivo:Radio_La_Red_AM_910.png" group-title="Radios",La Red
+https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC_SC
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/77/93/7793b356-44fe-4e77-a360-8b95dc9fc943.jpg" group-title="Radios",Rivadavia
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Películas",DUST
+https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="Películas",Charge
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
