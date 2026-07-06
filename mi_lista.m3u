@@ -49,4 +49,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AA
 #EXTINF:-1 tvg-name="Rivadavia" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/radios/rivadavia.png" group-title="Radios",Rivadavia
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC
 
-# Películas
+# Deportes
+
+#EXTINF:-1 tvg-name="Fox Sports" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/LOGO.png",Fox Sports
+https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
