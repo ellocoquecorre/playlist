@@ -3,7 +3,7 @@
 # Noticias
 
 #EXTINF:-1 tvg-name="LN+" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/ln.png",LN+
-http://playcom.trapemn.tv:1935/transcoderip/lanacionplus.stream/playlist.m3u8
+https://www.youtube.com/c/LaNacionMas/live
 
 #EXTINF:-1 tvg-name="TN" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/tn.png",TN
 http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8
