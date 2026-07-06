@@ -1,0 +1,2 @@
+#EXTINF:-1 tvg-name="NOMBRE" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/LOGO.png",NOMBRE
+URL

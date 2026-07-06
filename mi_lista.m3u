@@ -2,21 +2,23 @@
 
 # Noticias
 
-#EXTINF:-1 tvg-name="A24" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/a24.png",A24
-https://g1.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8?sense=true
-
-
-#EXTINF:-1 tvg-name="Canal 26" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/canal26.png",Canal 26
-https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-name="LN+" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/ln.png",LN+
+http://playcom.trapemn.tv:1935/transcoderip/lanacionplus.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TN" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/tn.png",TN
 http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Crónica TV" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/cronica.png",Crónica TV
-https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-name="A24" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/a24.png",A24
+https://g1.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-name="C5N" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/c5n.png",C5N
 http://190.7.19.197:232/play/a040/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal 26" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/canal26.png",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-1 tvg-name="Crónica TV" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/cronica.png",Crónica TV
+https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-name="DW" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/dw.png",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
@@ -29,6 +31,15 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 tvg-name="RT en Español" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/rt.png",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CBS" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/cbs.png",CBS
+https://iptv-org.github.io/channels/us/CBSenespanol#SD
+
+#EXTINF:-1 tvg-name="Fox News" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/foxnews.png",Fox News
+http://41.205.77.102/FOX-NEWS/index.m3u8
+
+#EXTINF:-1 tvg-name="CNN" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ellocoquecorre/playlist/refs/heads/main/img/noticias/cnn.png",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 # Radios
 
